@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Instructions for completing the term research paper.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
