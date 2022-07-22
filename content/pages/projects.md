@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Instructions for completing the term research paper.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: efdacb27-037e-aa54-7475-94feff85cdd7
 ---
