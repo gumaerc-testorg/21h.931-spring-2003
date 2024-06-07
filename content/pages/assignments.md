@@ -29,7 +29,7 @@ _The Bastille and the French Republic._
 
 Write at least one or two substantial paragraphs in response to each of the following questions.
 
-1.  Consider the documents and images from the storming of the Bastille on the {{% resource_link "155879d2-515d-4349-af09-3361f50f05d0" "Liberty, Equality, Fraternity" %}} web site. Do these documents support or contradict the interpretation of 14 July 1789 offered by Thomas Carlyle? Do they support or contradict the interpretation offered by Jules Michelet?
+1.  Consider the documents and images from the storming of the Bastille on the [Liberty, Equality, Fraternity](https://revolution.chnm.org/) web site. Do these documents support or contradict the interpretation of 14 July 1789 offered by Thomas Carlyle? Do they support or contradict the interpretation offered by Jules Michelet?
 2.  What issues interest Georges Rudé in his analysis of the events of 14 July 1789? Is the evidence he considers different from that considered by Carlyle and Michelet in the nineteenth century?
 3.  According to Christian Amalvi, how have past celebrations of the taking of the Bastille served the needs of various governing regimes in France? How successful have these states been in bending the history of this event to their needs?
 
