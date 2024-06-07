@@ -38,9 +38,9 @@ Davis, Natalie Zemon. "Introduction." In *Fiction in the Archives: Pardon Tales 
 
 Starn, Randolph. "Truths in the Archives." *Common Knowledge* 8 (Spring 2002): 387-401.
 
-{{% resource_link "6e172e75-73c7-4483-afae-719bc4352b47" "MIT Archives and Special Collections website" %}}.
+[MIT Archives and Special Collections website](http://libraries.mit.edu/archives/).
 
-Visit the websites for the {{% resource_link "33d184df-ae7e-4da0-97a7-0278111e74ab" "Boston Athenaeum" %}}, the {{% resource_link "c44a7042-4a9d-4f05-b9ab-98c35981303d" "Massachusetts Historical Society" %}}, and the {{% resource_link "2bd63718-4e68-4d30-9ab4-70286045762d" "Massachusetts State Archives" %}}.
+Visit the websites for the [Boston Athenaeum](http://www.bostonathenaeum.org/), the [Massachusetts Historical Society](http://www.masshist.org/), and the [Massachusetts State Archives](http://www.state.ma.us/sec/arc/arcidx.htm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -53,14 +53,14 @@ None
 {{< tdclose >}}{{< tdopen >}}
 Presentation of Assembled Archive on MIT Student Life
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "f1ae874a-b580-4ef0-8a44-f77be324322b" "MIT DSpace Project" %}}
+[MIT DSpace Project](http://dspace.mit.edu/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 A Philosophy of History
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "05a4c00b-5366-499e-97e5-d2933e5efea5" "Brief online biography of Hegel" %}}.
+[Brief online biography of Hegel](http://www.utm.edu/research/iep/h/hegelsoc.htm).
 
 Hegel, G. W. F. *Reason in History,* pp. 3-95.
 
@@ -70,7 +70,7 @@ Hegel, G. W. F. *Reason in History,* pp. 3-95.
 The Storming of the Bastille and the History of Republican France
 {{< tdclose >}}{{< tdopen >}}
 
-Ch. 4: "Paris and the Politics of Rebellion." On the website {{% resource_link "96b598ad-eb97-41a3-b646-99935b56916a" "Liberty, Equality, Fraternity: Exploring the French Revolution" %}}. Read the text on the first page, and click on all texts and images in the left margin. On page 2, review all 10 images linked to the left-hand image icon entitled "Destroying a Hated Symbol of Oppression."
+Ch. 4: "Paris and the Politics of Rebellion." On the website [Liberty, Equality, Fraternity: Exploring the French Revolution](http://chnm.gmu.edu/revolution/chap4a.html). Read the text on the first page, and click on all texts and images in the left margin. On page 2, review all 10 images linked to the left-hand image icon entitled "Destroying a Hated Symbol of Oppression."
 
 Carlyle, Thomas. *The French Revolution,* pp. 195-209. \[First published in 1837\]
 
@@ -99,7 +99,7 @@ Limerick, Patricia Nelson. "Introduction." In *The Legacy of Conquest: The Unbr
 {{< tdclose >}}{{< tdopen >}}
 Writing Workshop
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a26540b2-ce41-4d5c-abe5-d420cf1790b9" "Strunk & White, The Elements of Style" %}}
+[Strunk & White, The Elements of Style](http://www.bartleby.com/141/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
