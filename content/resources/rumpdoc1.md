@@ -4,6 +4,7 @@ description: Paris Police Officer's report, 1763, translated from the French. Th
   Coachman's Bare Rump, Archives nationales, Paris, Y13772, papers of the commissaires
   de Paris, Procs-verbal dated 22 January 1763
 file: /courses/21h-931-seminar-in-historical-methods-spring-2003/cf365ee4b9b361d3f3d598acd6078ceb_rumpdoc1.pdf
+file_size: 42004
 file_type: application/pdf
 learning_resource_types:
 - Readings
