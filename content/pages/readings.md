@@ -40,7 +40,7 @@ Starn, Randolph. "Truths in the Archives." *Common Knowledge* 8 (Spring 2002): 3
 
 [MIT Archives and Special Collections website](http://libraries.mit.edu/archives/).
 
-Visit the websites for the [Boston Athenaeum](http://www.bostonathenaeum.org/), the [Massachusetts Historical Society](http://www.masshist.org/), and the [Massachusetts State Archives](http://www.state.ma.us/sec/arc/arcidx.htm).
+Visit the websites for the [Boston Athenaeum](http://www.bostonathenaeum.org/), the [Massachusetts Historical Society](http://www.masshist.org/), and the [Massachusetts State Archives](https://www.sec.state.ma.us/arc/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
